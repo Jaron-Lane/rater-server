@@ -1,1 +1,1 @@
-from .gamer import Gamer
+from .player import Player
